@@ -1,0 +1,15 @@
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\BrXxX.Xyz Loader.exe.config
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\BrXxX.Xyz Loader.exe
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\BrXxX.Xyz Loader.pdb
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\MetroFramework.dll
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.csprojAssemblyReference.cache
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz_Loader.Properties.Resources.resources
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.csproj.GenerateResource.cache
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.csproj.CopyComplete
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.exe
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz Loader.pdb
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz_Loader.frm_Main.resources
+C:\Users\Alisson\Documents\GitHub\BRXxX.Xyz-CSGO-Cheat-Loader\BrXxX.Xyz Loader\obj\Debug\BrXxX.Xyz_Loader.frm_splash.resources
